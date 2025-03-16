@@ -7,8 +7,7 @@ The pipeline includes data preprocessing, feature engineering, model training, e
 ---
 
 ## 🚀 Setup Instructions  
-
-### Clone the Repository  
+ Clone the Repository  
 ```bash
 git clone https://github.com/Sahil1966/Mycotoxin-Prediction.git
 cd mycotoxin-prediction
