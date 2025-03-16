@@ -1,7 +1,10 @@
-pandas
 numpy
+pandas
+scikit-learn 
+tensorflow
 matplotlib
 seaborn
-scikit-learn
-
-# -e .
+optuna
+shap
+xgboost
+streamlit

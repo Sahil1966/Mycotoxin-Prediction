@@ -1,0 +1,678 @@
+2025-03-14 02:32:50,715 - ERROR - Error loading dataset: [Errno 2] No such file or directory: 'data/MLE-Assignment.csv'
+2025-03-14 02:34:50,866 - ERROR - Error loading dataset: [Errno 2] No such file or directory: 'data/MLE-Assignment.csv'
+2025-03-14 02:39:32,700 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 02:39:32,701 - INFO - Displaying dataset info:
+2025-03-14 02:39:32,717 - INFO - Summary statistics:
+2025-03-14 02:39:33,050 - INFO - Checking for missing values:
+2025-03-14 02:43:47,591 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 02:43:47,592 - INFO - Displaying dataset info:
+2025-03-14 02:43:47,600 - INFO - Summary statistics:
+2025-03-14 02:43:47,870 - INFO - Checking for missing values:
+2025-03-14 02:53:05,584 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 02:53:05,584 - INFO - Displaying dataset info:
+2025-03-14 02:53:05,591 - INFO - Summary statistics:
+2025-03-14 02:53:05,875 - INFO - Checking for missing values:
+2025-03-14 02:54:45,096 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 02:54:45,096 - INFO - Displaying dataset info:
+2025-03-14 02:54:45,107 - INFO - Summary statistics:
+2025-03-14 02:54:45,381 - INFO - Checking for missing values:
+2025-03-14 02:57:12,802 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 02:57:12,802 - INFO - Displaying dataset info:
+2025-03-14 02:57:12,810 - INFO - Summary statistics:
+2025-03-14 02:57:13,221 - INFO - Checking for missing values:
+2025-03-14 16:41:45,831 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 16:41:45,832 - INFO - Displaying dataset info:
+2025-03-14 16:41:45,861 - INFO - Summary statistics:
+2025-03-14 16:41:46,468 - INFO - Checking for missing values:
+2025-03-14 16:41:46,620 - INFO - Missing values handled.
+2025-03-14 16:53:34,979 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 16:53:34,979 - INFO - Displaying dataset info:
+2025-03-14 16:53:34,993 - INFO - Summary statistics:
+2025-03-14 16:53:35,678 - INFO - Checking for missing values:
+2025-03-14 16:53:35,858 - INFO - Missing values handled.
+2025-03-14 16:56:08,952 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 16:56:08,953 - INFO - Displaying dataset info:
+2025-03-14 16:56:08,966 - INFO - Summary statistics:
+2025-03-14 16:56:09,602 - INFO - Checking for missing values:
+2025-03-14 16:56:09,744 - INFO - Missing values handled.
+2025-03-14 16:56:54,745 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 16:56:54,745 - INFO - Displaying dataset info:
+2025-03-14 16:56:54,758 - INFO - Summary statistics:
+2025-03-14 16:56:55,362 - INFO - Checking for missing values:
+2025-03-14 16:56:55,565 - INFO - Missing values handled.
+2025-03-14 17:15:50,099 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:15:50,099 - INFO - Displaying dataset info:
+2025-03-14 17:15:50,126 - INFO - Summary statistics:
+2025-03-14 17:15:50,748 - INFO - Checking for missing values:
+2025-03-14 17:15:50,881 - INFO - Missing values handled.
+2025-03-14 17:16:32,170 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:16:32,170 - INFO - Displaying dataset info:
+2025-03-14 17:16:32,192 - INFO - Summary statistics:
+2025-03-14 17:16:32,714 - INFO - Checking for missing values:
+2025-03-14 17:16:32,853 - INFO - Missing values handled.
+2025-03-14 17:19:03,536 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:19:03,537 - INFO - Displaying dataset info:
+2025-03-14 17:19:03,555 - INFO - Summary statistics:
+2025-03-14 17:19:04,205 - INFO - Checking for missing values:
+2025-03-14 17:19:04,338 - INFO - Missing values handled.
+2025-03-14 17:20:25,229 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:20:25,229 - INFO - Displaying dataset info:
+2025-03-14 17:20:25,241 - INFO - Summary statistics:
+2025-03-14 17:20:25,827 - INFO - Checking for missing values:
+2025-03-14 17:20:25,983 - INFO - Missing values handled.
+2025-03-14 17:41:16,523 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:41:16,523 - INFO - Displaying dataset info:
+2025-03-14 17:41:16,530 - INFO - Summary statistics:
+2025-03-14 17:41:16,880 - INFO - Checking for missing values:
+2025-03-14 17:41:16,952 - INFO - Missing values handled.
+2025-03-14 17:42:02,558 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:42:02,558 - INFO - Summary statistics:
+2025-03-14 17:42:02,855 - INFO - Checking for missing values:
+2025-03-14 17:42:02,945 - INFO - Missing values handled.
+2025-03-14 17:42:27,114 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:42:27,115 - INFO - Displaying dataset info:
+2025-03-14 17:42:27,122 - INFO - Summary statistics:
+2025-03-14 17:42:27,475 - INFO - Checking for missing values:
+2025-03-14 17:42:27,548 - INFO - Missing values handled.
+2025-03-14 17:42:55,525 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:42:55,525 - INFO - Displaying dataset info:
+2025-03-14 17:42:55,533 - INFO - Summary statistics:
+2025-03-14 17:42:55,910 - INFO - Missing values handled.
+2025-03-14 17:44:05,313 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:44:05,313 - INFO - Displaying dataset info:
+2025-03-14 17:44:05,321 - INFO - Summary statistics:
+2025-03-14 17:44:53,069 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:44:53,069 - INFO - Displaying dataset info:
+2025-03-14 17:44:53,131 - INFO - Summary statistics:
+2025-03-14 17:44:53,420 - INFO - Checking for missing values:
+2025-03-14 17:46:48,171 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:46:48,171 - INFO - Displaying dataset info:
+2025-03-14 17:46:48,178 - INFO - Summary statistics:
+2025-03-14 17:46:48,473 - INFO - Checking for missing values:
+2025-03-14 17:47:36,662 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:47:36,662 - INFO - Displaying dataset info:
+2025-03-14 17:47:36,671 - INFO - Summary statistics:
+2025-03-14 17:47:36,978 - INFO - Checking for missing values:
+2025-03-14 17:47:37,107 - INFO - Missing values handled.
+2025-03-14 17:49:28,768 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:49:28,768 - INFO - Displaying dataset info:
+2025-03-14 17:49:28,775 - INFO - Summary statistics:
+2025-03-14 17:49:29,061 - INFO - Checking for missing values:
+2025-03-14 17:49:29,137 - INFO - Missing values handled.
+2025-03-14 17:54:20,077 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:54:20,077 - INFO - Displaying dataset info:
+2025-03-14 17:54:20,087 - INFO - Summary statistics:
+2025-03-14 17:54:20,384 - INFO - Checking for missing values:
+2025-03-14 17:54:20,531 - INFO - Missing values handled.
+2025-03-14 17:55:51,852 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 17:55:51,852 - INFO - Displaying dataset info:
+2025-03-14 17:55:51,860 - INFO - Summary statistics:
+2025-03-14 17:55:52,151 - INFO - Checking for missing values:
+2025-03-14 17:55:52,227 - INFO - Missing values handled.
+2025-03-14 18:08:48,551 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 18:08:48,551 - INFO - Checking starting rows:
+2025-03-14 18:08:48,555 - INFO - Displaying dataset info:
+2025-03-14 18:08:48,564 - INFO - Summary statistics:
+2025-03-14 18:08:48,855 - INFO - Checking for missing values:
+2025-03-14 18:08:48,943 - INFO - Missing values handled.
+2025-03-14 18:09:50,464 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 18:09:50,464 - INFO - Checking starting rows:
+2025-03-14 18:09:50,468 - INFO - Displaying dataset info:
+2025-03-14 18:09:50,477 - INFO - Summary statistics:
+2025-03-14 18:09:50,863 - INFO - Checking for missing values:
+2025-03-14 18:09:50,950 - INFO - Missing values handled.
+2025-03-14 18:10:14,895 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 18:10:14,896 - INFO - Displaying dataset info:
+2025-03-14 18:10:14,908 - INFO - Summary statistics:
+2025-03-14 18:10:15,197 - INFO - Checking for missing values:
+2025-03-14 18:10:15,274 - INFO - Missing values handled.
+2025-03-14 19:28:00,328 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 19:28:00,328 - INFO - Displaying dataset info:
+2025-03-14 19:28:00,338 - INFO - Summary statistics:
+2025-03-14 19:28:00,621 - INFO - Checking for missing values:
+2025-03-14 19:28:18,734 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 19:28:18,734 - INFO - Displaying dataset info:
+2025-03-14 19:28:18,741 - INFO - Summary statistics:
+2025-03-14 19:28:19,100 - INFO - Checking for missing values:
+2025-03-14 19:28:19,103 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 19:28:19,176 - INFO - Missing values handled.
+2025-03-14 19:28:19,205 - INFO - Feature scaling applied using StandardScaler.
+2025-03-14 20:35:26,527 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 20:35:26,527 - INFO - Displaying dataset info:
+2025-03-14 20:35:26,541 - INFO - Summary statistics:
+2025-03-14 20:35:26,854 - INFO - Checking for missing values:
+2025-03-14 20:35:26,858 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 20:35:26,941 - INFO - Missing values handled.
+2025-03-14 20:35:26,949 - INFO - Handling outliers using IQR method.
+2025-03-14 20:35:26,964 - INFO - Applying log transformation to skewed features.
+2025-03-14 20:35:26,985 - INFO - Log transformation applied on: ['vomitoxin_ppb']
+2025-03-14 20:35:26,985 - INFO - Scaling features using standard scaling.
+2025-03-14 23:16:46,107 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 23:16:46,108 - INFO - Displaying dataset info:
+2025-03-14 23:16:55,447 - INFO - Summary statistics:
+2025-03-14 23:16:56,116 - INFO - Checking for missing values:
+2025-03-14 23:16:56,127 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 23:16:56,297 - INFO - Missing values handled.
+2025-03-14 23:16:56,310 - INFO - Handling outliers using IQR method.
+2025-03-14 23:16:56,339 - INFO - Applying log transformation to skewed features.
+2025-03-14 23:16:56,414 - INFO - Log transformation applied on: ['vomitoxin_ppb']
+2025-03-14 23:16:56,414 - INFO - Scaling features using standard scaling.
+2025-03-14 23:18:44,517 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 23:18:44,519 - INFO - Displaying dataset info:
+2025-03-14 23:18:44,562 - INFO - Summary statistics:
+2025-03-14 23:18:45,877 - INFO - Checking for missing values:
+2025-03-14 23:18:45,881 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 23:18:46,023 - INFO - Missing values handled.
+2025-03-14 23:18:46,030 - INFO - Handling outliers using IQR method.
+2025-03-14 23:18:46,052 - INFO - Applying log transformation to skewed features.
+2025-03-14 23:18:46,092 - INFO - Log transformation applied on: ['vomitoxin_ppb']
+2025-03-14 23:18:46,093 - INFO - Scaling features using standard scaling.
+2025-03-14 23:19:22,198 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 23:19:22,198 - INFO - Displaying dataset info:
+2025-03-14 23:19:22,214 - INFO - Summary statistics:
+2025-03-14 23:19:22,898 - INFO - Checking for missing values:
+2025-03-14 23:19:22,902 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 23:19:23,070 - INFO - Missing values handled.
+2025-03-14 23:19:23,078 - INFO - Handling outliers using IQR method.
+2025-03-14 23:19:23,098 - INFO - Applying log transformation to skewed features.
+2025-03-14 23:19:23,149 - INFO - Log transformation applied on: ['vomitoxin_ppb']
+2025-03-14 23:19:23,149 - INFO - Scaling features using standard scaling.
+2025-03-14 23:20:20,432 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-14 23:20:20,432 - INFO - Displaying dataset info:
+2025-03-14 23:20:20,448 - INFO - Summary statistics:
+2025-03-14 23:20:21,138 - INFO - Checking for missing values:
+2025-03-14 23:20:21,142 - INFO - Dropped irrelevant column: hsi_id
+2025-03-14 23:20:21,304 - INFO - Missing values handled.
+2025-03-14 23:20:21,312 - INFO - Handling outliers using IQR method.
+2025-03-14 23:20:21,333 - INFO - Applying log transformation to skewed features.
+2025-03-14 23:20:21,382 - INFO - Log transformation applied on: ['vomitoxin_ppb']
+2025-03-14 23:20:21,382 - INFO - Scaling features using standard scaling.
+2025-03-15 00:48:53,173 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 00:48:53,174 - INFO - Displaying dataset info:
+2025-03-15 00:48:53,189 - INFO - Summary statistics:
+2025-03-15 00:48:53,508 - INFO - Checking for missing values:
+2025-03-15 00:48:53,511 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 00:48:53,630 - INFO - Missing values handled.
+2025-03-15 00:59:20,115 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 00:59:20,116 - INFO - Displaying dataset info:
+2025-03-15 00:59:20,125 - INFO - Summary statistics:
+2025-03-15 00:59:20,411 - INFO - Checking for missing values:
+2025-03-15 00:59:20,414 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 00:59:20,490 - INFO - Missing values handled.
+2025-03-15 01:19:02,301 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 01:19:02,301 - INFO - Displaying dataset info:
+2025-03-15 01:19:02,311 - INFO - Summary statistics:
+2025-03-15 01:19:02,610 - INFO - Checking for missing values:
+2025-03-15 01:19:02,614 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 01:19:02,690 - INFO - Missing values handled.
+2025-03-15 01:45:35,332 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 01:45:35,332 - INFO - Displaying dataset info:
+2025-03-15 01:45:35,345 - INFO - Summary statistics:
+2025-03-15 01:45:35,787 - INFO - Checking for missing values:
+2025-03-15 01:45:35,790 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 01:45:36,567 - INFO - Missing values handled.
+2025-03-15 01:59:13,758 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 01:59:13,758 - INFO - Displaying dataset info:
+2025-03-15 01:59:13,781 - INFO - Summary statistics:
+2025-03-15 01:59:14,582 - INFO - Checking for missing values:
+2025-03-15 01:59:14,586 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 01:59:14,767 - INFO - Missing values handled.
+2025-03-15 02:00:47,653 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 02:00:47,654 - INFO - Displaying dataset info:
+2025-03-15 02:00:47,668 - INFO - Summary statistics:
+2025-03-15 02:00:48,320 - INFO - Checking for missing values:
+2025-03-15 02:00:48,326 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 02:00:48,491 - INFO - Missing values handled.
+2025-03-15 02:02:20,131 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 02:02:20,131 - INFO - Displaying dataset info:
+2025-03-15 02:02:20,146 - INFO - Summary statistics:
+2025-03-15 02:02:20,892 - INFO - Checking for missing values:
+2025-03-15 02:02:20,898 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 02:02:21,065 - INFO - Missing values handled.
+2025-03-15 02:04:20,878 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 02:04:20,878 - INFO - Displaying dataset info:
+2025-03-15 02:04:20,897 - INFO - Summary statistics:
+2025-03-15 02:04:21,930 - INFO - Checking for missing values:
+2025-03-15 02:04:21,935 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 02:04:22,072 - INFO - Missing values handled.
+2025-03-15 03:06:33,324 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 03:06:33,324 - INFO - Displaying dataset info:
+2025-03-15 03:06:33,339 - INFO - Summary statistics:
+2025-03-15 03:06:33,640 - INFO - Checking for missing values:
+2025-03-15 03:06:33,646 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 03:06:33,733 - INFO - Missing values handled.
+2025-03-15 03:21:33,381 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 03:21:33,381 - INFO - Displaying dataset info:
+2025-03-15 03:21:33,409 - INFO - Summary statistics:
+2025-03-15 03:21:34,144 - INFO - Checking for missing values:
+2025-03-15 03:21:34,151 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 03:21:34,346 - INFO - Missing values handled.
+2025-03-15 03:28:10,417 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 03:28:10,418 - INFO - Displaying dataset info:
+2025-03-15 03:28:10,430 - INFO - Summary statistics:
+2025-03-15 03:28:11,135 - INFO - Checking for missing values:
+2025-03-15 03:28:11,142 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 03:28:11,341 - INFO - Missing values handled.
+2025-03-15 03:31:35,202 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 03:31:35,203 - INFO - Displaying dataset info:
+2025-03-15 03:31:35,227 - INFO - Summary statistics:
+2025-03-15 03:31:35,929 - INFO - Checking for missing values:
+2025-03-15 03:31:35,935 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 03:31:36,180 - INFO - Missing values handled.
+2025-03-15 03:33:21,125 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 03:33:21,126 - INFO - Displaying dataset info:
+2025-03-15 03:33:21,145 - INFO - Summary statistics:
+2025-03-15 03:33:21,886 - INFO - Checking for missing values:
+2025-03-15 03:33:21,893 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 03:33:22,039 - INFO - Missing values handled.
+2025-03-15 17:37:10,082 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 17:37:10,082 - INFO - Displaying dataset info:
+2025-03-15 17:37:10,123 - INFO - Summary statistics:
+2025-03-15 17:37:10,886 - INFO - Checking for missing values:
+2025-03-15 17:37:10,894 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 17:37:11,094 - INFO - Missing values handled.
+2025-03-15 17:49:52,248 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 17:49:52,249 - INFO - Displaying dataset info:
+2025-03-15 17:49:52,271 - INFO - Summary statistics:
+2025-03-15 17:49:53,080 - INFO - Checking for missing values:
+2025-03-15 17:49:53,087 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 17:49:53,220 - INFO - Missing values handled.
+2025-03-15 17:49:53,229 - INFO - Starting feature engineering process.
+2025-03-15 17:50:04,598 - INFO - Outliers removed using IQR method.
+2025-03-15 17:50:04,598 - INFO - Number of features after outlier removal: 449
+2025-03-15 17:50:17,042 - INFO - Correlation heatmap plotted.
+2025-03-15 17:50:59,410 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-15 17:50:59,411 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-15 17:50:59,411 - INFO - Feature engineering process completed.
+2025-03-15 18:14:47,890 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 18:14:47,890 - INFO - Displaying dataset info:
+2025-03-15 18:14:47,898 - INFO - Summary statistics:
+2025-03-15 18:14:48,438 - INFO - Checking for missing values:
+2025-03-15 18:14:48,441 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 18:14:48,510 - INFO - Missing values handled.
+2025-03-15 18:14:48,514 - INFO - Starting feature engineering process.
+2025-03-15 18:14:54,146 - INFO - Outliers removed using IQR method.
+2025-03-15 18:14:54,146 - INFO - Number of features after outlier removal: 449
+2025-03-15 18:14:59,807 - INFO - Correlation heatmap plotted.
+2025-03-15 18:15:25,783 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-15 18:15:25,783 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-15 18:15:25,783 - INFO - Feature engineering process completed.
+2025-03-15 19:08:34,423 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 19:08:34,424 - INFO - Displaying dataset info:
+2025-03-15 19:08:34,437 - INFO - Summary statistics:
+2025-03-15 19:08:34,735 - INFO - Checking for missing values:
+2025-03-15 19:08:34,739 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 19:08:34,815 - INFO - Missing values handled.
+2025-03-15 19:08:34,825 - INFO - Starting feature engineering process.
+2025-03-15 19:08:40,500 - INFO - Outliers removed using IQR method.
+2025-03-15 19:08:40,500 - INFO - Number of features after outlier removal: 449
+2025-03-15 19:08:46,380 - INFO - Correlation heatmap plotted.
+2025-03-15 19:09:12,535 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-15 19:09:12,535 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-15 19:09:12,537 - INFO - Feature engineering process completed.
+2025-03-15 19:10:30,590 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-15 19:10:30,590 - INFO - Displaying dataset info:
+2025-03-15 19:10:30,598 - INFO - Summary statistics:
+2025-03-15 19:10:30,883 - INFO - Checking for missing values:
+2025-03-15 19:10:30,886 - INFO - Dropped irrelevant column: hsi_id
+2025-03-15 19:10:30,959 - INFO - Missing values handled.
+2025-03-15 19:10:30,965 - INFO - Starting feature engineering process.
+2025-03-15 19:10:36,520 - INFO - Outliers removed using IQR method.
+2025-03-15 19:10:36,520 - INFO - Number of features after outlier removal: 449
+2025-03-15 19:10:42,198 - INFO - Correlation heatmap plotted.
+2025-03-15 19:11:08,704 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-15 19:11:08,705 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-15 19:11:08,705 - INFO - Feature engineering process completed.
+2025-03-15 19:57:31,858 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 19:57:31,860 - INFO - Data split into training and testing sets.
+2025-03-15 19:57:32,224 - INFO - RandomForestRegressor trained successfully.
+2025-03-15 19:57:32,228 - INFO - Model saved to src/models/random_forest_model.pkl
+2025-03-15 19:59:12,740 - INFO - Model loaded from src/models/random_forest_model.pkl
+2025-03-15 19:59:12,747 - INFO - Evaluation metrics - MSE: 184809.175, R2: 0.674
+2025-03-15 19:59:39,250 - INFO - Evaluation plot saved as src/models/evaluation_plot.png
+2025-03-15 20:00:09,185 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 20:00:18,978 - INFO - Best parameters: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 100}
+2025-03-15 20:00:18,978 - INFO - Best score (neg MSE): -459057.3687475069
+2025-03-15 20:00:18,981 - INFO - Tuned model saved to src/models/random_forest_tuned.pkl
+2025-03-15 20:05:55,551 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:10,716 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:16,533 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:21,237 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:25,908 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:31,637 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:39,151 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:45,539 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:52,400 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:06:57,387 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:03,119 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:23,741 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:26,414 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:34,097 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:41,713 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:49,341 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:07:56,187 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:08:08,726 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:08:26,981 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:08:42,226 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:08:54,095 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:00,937 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:07,827 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:16,499 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:24,517 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:32,193 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:38,662 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:46,137 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:09:52,694 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:02,272 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:11,062 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:17,074 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:23,817 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:30,555 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:42,310 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:10:59,747 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:11:21,010 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:11:26,780 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:11:35,486 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:11:41,483 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:44:01,752 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:44:26,800 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:44:36,565 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:44:49,970 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:45:03,546 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:45:16,633 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:45:29,648 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:45:46,372 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:46:05,239 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:46:24,972 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:46:42,799 - INFO - Best trial parameters: {'rf_n_estimators': 280, 'rf_max_depth': 14, 'gb_n_estimators': 166, 'gb_learning_rate': 0.04727047354609028}
+2025-03-15 20:46:42,805 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 20:46:47,398 - INFO - Final Model Evaluation - MSE: 681949.286, Custom Loss: 706.001
+2025-03-15 20:46:47,420 - INFO - Advanced model saved to src\models\advanced_model.pkl
+2025-03-15 20:53:46,713 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 20:53:46,760 - INFO - Model loaded from src\models\advanced_model.pkl
+2025-03-15 20:53:46,779 - INFO - Evaluation metrics: MAE: 590.977, RMSE: 825.802, R2: -0.105
+2025-03-15 20:54:02,801 - INFO - Scatter plot saved as src\models\actual_vs_predicted.png
+2025-03-15 20:54:12,198 - INFO - Residual plot saved as src\models\residuals.png
+2025-03-15 20:55:06,047 - INFO - SHAP summary plot saved as src\models\shap_summary.png
+2025-03-15 22:50:41,759 - ERROR - Error loading data: [Errno 2] No such file or directory: '/mnt/data/processed_data.csv'
+2025-03-15 22:50:41,759 - ERROR - Error during improved model training: [Errno 2] No such file or directory: '/mnt/data/processed_data.csv'
+2025-03-15 22:52:02,384 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 22:52:02,392 - INFO - Filled missing numeric values with median.
+2025-03-15 22:52:02,396 - INFO - Features scaled using StandardScaler.
+2025-03-15 22:52:02,397 - INFO - Data split into training and testing sets.
+2025-03-15 22:52:14,100 - INFO - Best parameters: {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 200, 'subsample': 0.8}
+2025-03-15 22:52:14,103 - INFO - Evaluation metrics: MAE: 563.378, RMSE: 805.486, R2: -0.051
+2025-03-15 23:29:06,779 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 23:29:06,781 - INFO - Data split into training and testing sets.
+2025-03-15 23:29:07,145 - INFO - RandomForestRegressor trained successfully.
+2025-03-15 23:29:07,149 - INFO - Model saved to src/models/random_forest_model.pkl
+2025-03-15 23:29:32,018 - INFO - Model loaded from src/models/random_forest_model.pkl
+2025-03-15 23:29:32,024 - INFO - Evaluation metrics - MSE: 184809.175, R2: 0.674
+2025-03-15 23:29:44,204 - INFO - Evaluation plot saved as src/models/evaluation_plot.png
+2025-03-15 23:29:55,332 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:30:04,449 - INFO - Best parameters: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 100}
+2025-03-15 23:30:04,450 - INFO - Best score (neg MSE): -459057.3687475069
+2025-03-15 23:30:04,453 - INFO - Tuned model saved to src/models/random_forest_tuned.pkl
+2025-03-15 23:39:17,225 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-15 23:39:17,227 - INFO - Data split into training and testing sets.
+2025-03-15 23:39:17,585 - INFO - RandomForestRegressor trained successfully.
+2025-03-15 23:39:17,590 - INFO - Model saved to src\models\random_forest_model.pkl
+2025-03-15 23:39:23,876 - INFO - Model loaded from src/models/random_forest_model.pkl
+2025-03-15 23:39:23,883 - INFO - Evaluation metrics - MSE: 184809.175, R2: 0.674
+2025-03-15 23:39:32,689 - INFO - Evaluation plot saved as src/models/evaluation_plot.png
+2025-03-15 23:39:40,152 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:42,711 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:44,046 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:45,920 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:47,554 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:48,066 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:48,340 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:48,752 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:49,208 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:49,659 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:50,227 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:50,432 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:50,895 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:51,545 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:51,877 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:52,147 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:52,566 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:53,072 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:53,341 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:53,916 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:54,447 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:54,776 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:55,461 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:55,942 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:56,313 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:56,762 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:57,080 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:57,355 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:57,799 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:58,224 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:58,485 - INFO - Best trial parameters: {'n_estimators': 155, 'max_depth': 15, 'min_samples_split': 9, 'min_samples_leaf': 2}
+2025-03-15 23:39:58,485 - INFO - Best MSE: 488900.22188462736
+2025-03-15 23:39:58,487 - INFO - Data loaded from data/processed_data.csv
+2025-03-15 23:39:58,489 - INFO - Data split into training and testing sets.
+2025-03-15 23:39:58,659 - INFO - Tuned model saved to src\models\random_forest_tuned.pkl
+2025-03-15 23:59:16,136 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\random_forest_model.pkl'
+2025-03-16 17:44:06,070 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\random_forest_model.pkl'
+2025-03-16 17:47:39,737 - INFO - Processed data loaded from data/processed_data.csv
+2025-03-16 17:47:39,744 - INFO - Data split into training and testing sets.
+2025-03-16 17:47:40,499 - INFO - RandomForestRegressor trained successfully.
+2025-03-16 17:47:40,506 - INFO - Model saved to src\models\random_forest_model.pkl
+2025-03-16 17:48:00,619 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:48:00,622 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\random_forest_tuned.pkl'
+2025-03-16 17:49:17,615 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:21,386 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:23,884 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:27,254 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:30,454 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:30,923 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:31,732 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:32,085 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:32,566 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:33,030 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:33,983 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:34,316 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:34,872 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:35,828 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:36,624 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:37,475 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:38,051 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:38,902 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:39,434 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:39,835 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:40,018 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:40,479 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:41,306 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:42,259 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:43,054 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:44,041 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:44,700 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:45,202 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:45,844 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:46,229 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:47,051 - INFO - Best trial parameters: {'n_estimators': 126, 'max_depth': 18, 'min_samples_split': 7, 'min_samples_leaf': 2}
+2025-03-16 17:49:47,052 - INFO - Best MSE: 490453.6872688454
+2025-03-16 17:49:47,058 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:49:47,061 - INFO - Data split into training and testing sets.
+2025-03-16 17:49:47,332 - INFO - Tuned model saved to src\models\random_forest_tuned.pkl
+2025-03-16 17:50:14,859 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:18,479 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:21,016 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:23,211 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:24,806 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:25,044 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:25,580 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:25,788 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:25,997 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:26,387 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:26,640 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:27,212 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:27,635 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:27,990 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:28,588 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:29,287 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:29,627 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:30,010 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:30,371 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:30,541 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:31,162 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:31,529 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:31,874 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:32,268 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:32,652 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:33,143 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:33,665 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:34,118 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:34,469 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:34,700 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:35,259 - INFO - Best trial parameters: {'n_estimators': 137, 'max_depth': 11, 'min_samples_split': 10, 'min_samples_leaf': 2}
+2025-03-16 17:50:35,259 - INFO - Best MSE: 491418.82117443375
+2025-03-16 17:50:35,263 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 17:50:35,265 - INFO - Data split into training and testing sets.
+2025-03-16 17:50:35,411 - INFO - Tuned model saved to src\models\random_forest_tuned.pkl
+2025-03-16 18:54:05,163 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:54:05,168 - INFO - Initializing models with best hyperparameters...
+2025-03-16 18:54:05,168 - INFO - Training stacked ensemble model...
+2025-03-16 18:54:14,109 - INFO - Model saved to src/models/stacked_model.pkl
+2025-03-16 18:55:01,978 - INFO - Starting hyperparameter tuning...
+2025-03-16 18:55:01,985 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:02,465 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:03,324 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:03,719 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:04,069 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:04,635 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:05,335 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:05,815 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:06,308 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:07,096 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:07,843 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:08,612 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:09,399 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:10,110 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:10,645 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:11,183 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:11,872 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:12,452 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:13,206 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:13,951 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:14,506 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:15,136 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:15,709 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:16,356 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:17,008 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:17,606 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:18,179 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:18,835 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:19,490 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:19,906 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:20,263 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:21,048 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:21,744 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:22,606 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:23,335 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:24,077 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:24,681 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:25,427 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:25,982 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:26,723 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:27,198 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:27,938 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:28,585 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:29,253 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:29,716 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:30,271 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:31,147 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:31,855 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:32,261 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:32,950 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:55:33,329 - INFO - Best hyperparameters: {'n_estimators': 232, 'max_depth': 11, 'min_samples_split': 4, 'min_samples_leaf': 4}
+2025-03-16 18:55:33,329 - INFO - Best MSE: 626513.7839248138
+2025-03-16 18:55:33,329 - INFO - Best hyperparameters saved to src/models/best_hyperparameters.pkl
+2025-03-16 18:56:01,647 - INFO - Loading test data...
+2025-03-16 18:56:01,653 - INFO - Data loaded from data/processed_data.csv
+2025-03-16 18:56:01,655 - INFO - Loading trained model...
+2025-03-16 18:56:02,580 - INFO - Evaluation - MAE: 604.598, RMSE: 885.023, R²: -0.269
+2025-03-16 18:56:02,970 - INFO - Actual vs. Predicted plot saved as src/models/actual_vs_predicted.png
+2025-03-16 18:56:03,406 - INFO - SHAP summary plot saved as src/models/shap_summary.png
+2025-03-16 19:37:29,013 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-16 19:37:29,013 - INFO - Displaying dataset info:
+2025-03-16 19:37:29,041 - INFO - Summary statistics:
+2025-03-16 19:37:29,812 - INFO - Checking for missing values:
+2025-03-16 19:37:29,817 - INFO - Dropped irrelevant column: hsi_id
+2025-03-16 19:37:29,947 - INFO - Missing values handled.
+2025-03-16 19:37:29,956 - INFO - Starting feature engineering process.
+2025-03-16 19:43:45,048 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-16 19:43:45,048 - INFO - Displaying dataset info:
+2025-03-16 19:43:45,061 - INFO - Summary statistics:
+2025-03-16 19:43:45,705 - INFO - Checking for missing values:
+2025-03-16 19:43:45,710 - INFO - Dropped irrelevant column: hsi_id
+2025-03-16 19:43:45,853 - INFO - Missing values handled.
+2025-03-16 19:43:45,862 - INFO - Starting feature engineering process.
+2025-03-16 19:43:57,571 - INFO - Outliers removed using IQR method.
+2025-03-16 19:43:57,571 - INFO - Number of features after outlier removal: 449
+2025-03-16 19:44:11,797 - INFO - Correlation heatmap plotted.
+2025-03-16 19:44:56,210 - INFO - Scaler saved to models/src\scaler.pkl
+2025-03-16 19:44:56,210 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-16 19:44:56,211 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-16 19:44:56,211 - INFO - Feature engineering process completed.
+2025-03-16 19:55:04,372 - ERROR - Error loading model: [Errno 2] No such file or directory: 'models/stacked_model.pkl'
+2025-03-16 19:55:04,389 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 19:56:11,956 - ERROR - Error loading model: [Errno 2] No such file or directory: 'models/stacked_model.pkl'
+2025-03-16 19:56:11,967 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 19:57:51,670 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src/models/stacked_model.pkl'
+2025-03-16 19:57:51,677 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 19:58:57,231 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 20:00:38,314 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src/models/stacked_model.pkl'
+2025-03-16 20:00:38,322 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 20:12:02,312 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src/models/stacked_model.pkl'
+2025-03-16 20:12:02,319 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 20:13:45,732 - INFO - Current working directory: C:\Users\sahil\Desktop\Mycotoxin Prediction\deployment
+2025-03-16 20:13:45,735 - INFO - Current working directory: C:\Users\sahil\Desktop\Mycotoxin Prediction\deployment
+2025-03-16 20:13:45,748 - ERROR - Model file not found at C:\Users\sahil\Desktop\Mycotoxin Prediction\deployment\src\models\stacked_model.pkl
+2025-03-16 20:13:45,761 - WARNING - Scaler file not found at C:\Users\sahil\Desktop\Mycotoxin Prediction\deployment\src\models\scaler.pkl. Proceeding without scaling.
+2025-03-16 20:15:55,820 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\stacked_model.pkl'
+2025-03-16 20:15:55,830 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 20:16:49,929 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\stacked_model.pkl'
+2025-03-16 20:16:49,952 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 20:18:43,108 - INFO - Model loaded successfully.
+2025-03-16 20:18:43,124 - INFO - Scaler loaded successfully.
+2025-03-16 20:20:16,578 - INFO - Model loaded successfully.
+2025-03-16 20:20:16,595 - INFO - Scaler loaded successfully.
+2025-03-16 20:27:33,673 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-16 20:27:33,673 - INFO - Displaying dataset info:
+2025-03-16 20:27:33,691 - INFO - Summary statistics:
+2025-03-16 20:27:34,636 - INFO - Checking for missing values:
+2025-03-16 20:27:34,641 - INFO - Dropped irrelevant column: hsi_id
+2025-03-16 20:27:34,803 - INFO - Missing values handled.
+2025-03-16 20:27:34,815 - INFO - Starting feature engineering process.
+2025-03-16 20:27:47,491 - INFO - Outliers removed using IQR method.
+2025-03-16 20:27:47,491 - INFO - Number of features after outlier removal: 449
+2025-03-16 20:28:01,498 - INFO - Correlation heatmap plotted.
+2025-03-16 20:28:45,572 - INFO - Scaler saved to models\src\scaler.pkl
+2025-03-16 20:28:45,572 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-16 20:28:45,573 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-16 20:28:45,574 - INFO - Feature engineering process completed.
+2025-03-16 22:15:00,242 - INFO - Dataset loaded successfully from C:\Users\sahil\Desktop\Mycotoxin Prediction\data\MLE-Assignment.csv
+2025-03-16 22:15:00,243 - INFO - Displaying dataset info:
+2025-03-16 22:15:00,257 - INFO - Summary statistics:
+2025-03-16 22:15:00,806 - INFO - Checking for missing values:
+2025-03-16 22:15:00,811 - INFO - Dropped irrelevant column: hsi_id
+2025-03-16 22:15:00,948 - INFO - Missing values handled.
+2025-03-16 22:15:00,957 - INFO - Starting feature engineering process.
+2025-03-16 22:15:12,621 - INFO - Outliers removed using IQR method.
+2025-03-16 22:15:12,622 - INFO - Number of features after outlier removal: 449
+2025-03-16 22:15:25,242 - INFO - Correlation heatmap plotted.
+2025-03-16 22:16:07,884 - INFO - Scaler saved to models\src\scaler.pkl
+2025-03-16 22:16:07,884 - INFO - Selected features: ['25', '35', '59', '73', '78', '84', '85', '86', '97', '123', '136', '158', '160', '162', '164', '170', '182', '363', '371', '382', '384', '405', '443']
+2025-03-16 22:16:07,886 - INFO - Number of features after Elastic Net feature selection: 24
+2025-03-16 22:16:07,886 - INFO - Feature engineering process completed.
+2025-03-16 22:16:51,193 - INFO - Model loaded successfully.
+2025-03-16 22:16:51,209 - WARNING - Scaler file not found at C:\Users\sahil\Desktop\Mycotoxin Prediction\src\models\scaler.pkl. Proceeding without scaling.
+2025-03-16 22:23:44,549 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src/models/stacked_model.pkl'
+2025-03-16 22:23:44,554 - WARNING - Scaler not found. Proceeding without scaling.
+2025-03-16 22:26:41,492 - ERROR - Error loading model: [Errno 2] No such file or directory: 'src\\models\\stacked_model.pkl'
+2025-03-16 22:32:52,209 - INFO - Model loaded successfully. Type of model: <class 'numpy.ndarray'>
+2025-03-16 22:32:52,209 - ERROR - Loaded object does not have 'predict' method. It's not a valid model.
